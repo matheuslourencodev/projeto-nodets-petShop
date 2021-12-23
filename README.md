@@ -6,6 +6,10 @@
     <img src="petDevShop.jpeg">
 </h1>
 
+<h2 align="center">
+    <a href="https://agile-refuge-33537.herokuapp.com/">Ver projeto</a>
+</h2>
+
 <h2>🚨 Sobre </h2>
 
 Projeto PetDevShop. Feito com typescript e nodets.
