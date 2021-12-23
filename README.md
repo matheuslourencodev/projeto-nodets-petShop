@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="petDevShop.p´jpeg">
+    <img src="petDevShop.jpeg">
 </h1>
 
 <h2>🚨 Sobre </h2>
